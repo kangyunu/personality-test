@@ -8,8 +8,7 @@ const QuestionSubmit = ({ handleSubmit, isDone }: QuestionSubmitProps) => {
       )}
       <button
         onClick={handleSubmit}
-        className="h-28 w-full bg-blue-500
-      text-4xl font-bold rounded-2xl text-white"
+        className="h-28 w-full bg-blue-500 text-4xl font-bold rounded-2xl text-white"
       >
         {isDone ? "결과보기" : "질문으로 가기"}
       </button>
