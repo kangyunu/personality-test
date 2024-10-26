@@ -62,7 +62,6 @@ export const metadata: Metadata = {
       },
     ],
   },
-  themeColor: "#ffffff",
   robots: { index: true, follow: true },
   alternates: {
     canonical: "https://kangyunu.github.io/personality-test",
@@ -77,6 +76,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3821179559884674"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body
         className={cn(
           `${geistSans.variable} ${geistMono.variable} antialiased`,
