@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const HomePage = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-100 via-white to-purple-100 flex items-center justify-center">
+    <div className="min-h-screen flex items-center justify-center">
       <div className="text-center space-y-6 max-w-lg px-6">
         <h1 className="text-4xl font-extrabold text-gray-800 leading-snug">
           당신의 성격 유형을 발견하고
