@@ -3,112 +3,112 @@
     "id": "curious-explorer",
     "name": "탐구적 모험가",
     "english": "Curious Explorer",
-    "character": ["개방성 높음", "외향성 중간", "성실성 낮음"],
+    "characters": ["개방성 높음", "외향성 중간", "성실성 낮음"],
     "description": "새로운 경험과 아이디어를 탐구하며 변화를 즐기는 성향입니다."
   },
   {
     "id": "cautious-strategist",
     "name": "신중한 전략가",
     "english": "Cautious Strategist",
-    "character": ["성실성 높음", "정서적 안정 높음", "외향성 낮음"],
+    "characters": ["성실성 높음", "정서적 안정 높음", "외향성 낮음"],
     "description": "계획과 분석을 중시하며, 신중하게 결정하는 성향입니다."
   },
   {
     "id": "warm-collaborator",
     "name": "따뜻한 협력가",
     "english": "Warm Collaborator",
-    "character": ["친화성 높음", "외향성 중간", "정서적 안정 낮음"],
+    "characters": ["친화성 높음", "외향성 중간", "정서적 안정 낮음"],
     "description": "타인의 감정을 이해하며 협력과 조화를 중요하게 여깁니다."
   },
   {
     "id": "independent-thinker",
     "name": "독립적 사색가",
     "english": "Independent Thinker",
-    "character": ["개방성 높음", "외향성 낮음", "성실성 중간"],
+    "characters": ["개방성 높음", "외향성 낮음", "성실성 중간"],
     "description": "혼자 사고하고 깊이 탐구하며 독립적으로 행동하는 성향입니다."
   },
   {
     "id": "systematic-planner",
     "name": "체계적인 계획자",
     "english": "Systematic Planner",
-    "character": ["성실성 높음", "친화성 중간", "정서적 안정 높음"],
+    "characters": ["성실성 높음", "친화성 중간", "정서적 안정 높음"],
     "description": "계획을 철저히 세우고 책임감 있게 실행하는 성향입니다."
   },
   {
     "id": "empathic-mediator",
     "name": "공감하는 중재자",
     "english": "Empathic Mediator",
-    "character": ["친화성 높음", "정서적 안정 중간", "외향성 낮음"],
+    "characters": ["친화성 높음", "정서적 안정 중간", "외향성 낮음"],
     "description": "타인의 입장을 이해하며 중재와 화해에 능숙한 성향입니다."
   },
   {
     "id": "adventurous-challenger",
     "name": "모험적인 도전자",
     "english": "Adventurous Challenger",
-    "character": ["외향성 높음", "개방성 높음", "성실성 낮음"],
+    "characters": ["외향성 높음", "개방성 높음", "성실성 낮음"],
     "description": "위험을 감수하며 새로운 도전을 즐기는 성향입니다."
   },
   {
     "id": "responsible-coordinator",
     "name": "책임감 있는 조정자",
     "english": "Responsible Coordinator",
-    "character": ["성실성 높음", "외향성 중간", "정서적 안정 높음"],
+    "characters": ["성실성 높음", "외향성 중간", "정서적 안정 높음"],
     "description": "책임감이 강하고 협력을 통해 문제를 해결하는 성향입니다."
   },
   {
     "id": "analytical-problem-solver",
     "name": "분석적인 해결사",
     "english": "Analytical Problem-Solver",
-    "character": ["개방성 높음", "성실성 높음", "친화성 중간"],
+    "characters": ["개방성 높음", "성실성 높음", "친화성 중간"],
     "description": "복잡한 문제를 논리적으로 분석하고 해결하는 성향입니다."
   },
   {
     "id": "emotional-artist",
     "name": "감정적인 예술가",
     "english": "Emotional Artist",
-    "character": ["정서적 안정 낮음", "개방성 높음", "외향성 중간"],
+    "characters": ["정서적 안정 낮음", "개방성 높음", "외향성 중간"],
     "description": "감정을 풍부하게 표현하며 창의적 활동에 열정을 지닙니다."
   },
   {
     "id": "agreeable-helper",
     "name": "친화적인 조력자",
     "english": "Agreeable Helper",
-    "character": ["친화성 높음", "외향성 중간", "성실성 중간"],
+    "characters": ["친화성 높음", "외향성 중간", "성실성 중간"],
     "description": "사교적이며 타인과의 관계를 원활하게 유지하는 성향입니다."
   },
   {
     "id": "quiet-observer",
     "name": "조용한 관찰자",
     "english": "Quiet Observer",
-    "character": ["외향성 낮음", "정서적 안정 중간", "성실성 중간"],
+    "characters": ["외향성 낮음", "정서적 안정 중간", "성실성 중간"],
     "description": "타인을 잘 관찰하며 신중하게 행동하는 성향입니다."
   },
   {
     "id": "risk-taking-explorer",
     "name": "모험을 즐기는 탐험가",
     "english": "Risk-Taking Explorer",
-    "character": ["개방성 높음", "외향성 높음", "정서적 안정 낮음"],
+    "characters": ["개방성 높음", "외향성 높음", "정서적 안정 낮음"],
     "description": "새로운 환경에서 도전하며 위험을 두려워하지 않는 성향입니다."
   },
   {
     "id": "rule-focused-manager",
     "name": "규칙을 중시하는 관리자",
     "english": "Rule-Focused Manager",
-    "character": ["성실성 높음", "친화성 중간", "정서적 안정 높음"],
+    "characters": ["성실성 높음", "친화성 중간", "정서적 안정 높음"],
     "description": "규칙과 절차를 중시하며 조직의 질서를 유지합니다."
   },
   {
     "id": "emotionally-balanced-harmonizer",
     "name": "감정을 잘 다루는 조율자",
     "english": "Emotionally Balanced Harmonizer",
-    "character": ["정서적 안정 높음", "외향성 중간", "친화성 높음"],
+    "characters": ["정서적 안정 높음", "외향성 중간", "친화성 높음"],
     "description": "감정을 잘 조절하며 갈등 상황에서도 조화를 이끕니다."
   },
   {
     "id": "creative-innovator",
     "name": "창의적인 혁신가",
     "english": "Creative Innovator",
-    "character": ["개방성 높음", "성실성 낮음", "외향성 중간"],
+    "characters": ["개방성 높음", "성실성 낮음", "외향성 중간"],
     "description": "기발한 아이디어로 변화를 주도하는 성향입니다."
   }
 ]
