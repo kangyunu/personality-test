@@ -13,5 +13,136 @@
     "id": 3,
     "text": "다른 사람의 감정을 잘 이해한다고 느낍니다.",
     "trait": "agreeableness"
+  },
+  {
+    "id": 4,
+    "text": "계획적인 삶을 선호합니다.",
+    "trait": "conscientiousness"
+  },
+  {
+    "id": 5,
+    "text": "관심 있는 분야에 깊이 몰입합니다.",
+    "trait": "openness"
+  },
+  {
+    "id": 6,
+    "text": "사교 모임에서 에너지를 얻는 편입니다.",
+    "trait": "extraversion"
+  },
+  {
+    "id": 7,
+    "text": "자신의 의견을 분명하게 전달하는 편입니다.",
+    "trait": "extraversion"
+  },
+  {
+    "id": 8,
+    "text": "사람들과 협력하는 것을 좋아합니다.",
+    "trait": "agreeableness"
+  },
+  {
+    "id": 9,
+    "text": "자주 걱정하거나 불안을 느낍니다.",
+    "trait": "emotionalStability"
+  },
+  {
+    "id": 10,
+    "text": "규칙과 절차를 따르는 것을 중요하게 생각합니다.",
+    "trait": "conscientiousness"
+  },
+  {
+    "id": 11,
+    "text": "다른 사람을 돕는 일이 즐겁습니다.",
+    "trait": "agreeableness"
+  },
+  {
+    "id": 12,
+    "text": "일정을 자주 변경하는 것을 싫어합니다.",
+    "trait": "conscientiousness"
+  },
+  {
+    "id": 13,
+    "text": "복잡한 문제를 해결하는 것을 좋아합니다.",
+    "trait": "openness"
+  },
+  {
+    "id": 14,
+    "text": "주위 사람들에게 친근하고 따뜻하게 대합니다.",
+    "trait": "agreeableness"
+  },
+  {
+    "id": 15,
+    "text": "시간 약속을 잘 지키는 편입니다.",
+    "trait": "conscientiousness"
+  },
+  {
+    "id": 16,
+    "text": "모험적인 활동에 매력을 느낍니다.",
+    "trait": "openness"
+  },
+  {
+    "id": 17,
+    "text": "비판을 받으면 쉽게 상처를 받습니다.",
+    "trait": "emotionalStability"
+  },
+  {
+    "id": 18,
+    "text": "개인적인 목표가 뚜렷합니다.",
+    "trait": "conscientiousness"
+  },
+  {
+    "id": 19,
+    "text": "타인의 요구를 거절하기 어려워합니다.",
+    "trait": "agreeableness"
+  },
+  {
+    "id": 20,
+    "text": "예술적 또는 창의적인 활동을 좋아합니다.",
+    "trait": "openness"
+  },
+  {
+    "id": 21,
+    "text": "규칙을 어기는 것을 불편하게 여깁니다.",
+    "trait": "conscientiousness"
+  },
+  {
+    "id": 22,
+    "text": "갑작스러운 변화에 잘 대처합니다.",
+    "trait": "emotionalStability"
+  },
+  {
+    "id": 23,
+    "text": "팀보다는 혼자 일하는 것을 선호합니다.",
+    "trait": "extraversion"
+  },
+  {
+    "id": 24,
+    "text": "감정 표현을 솔직하게 하는 편입니다.",
+    "trait": "extraversion"
+  },
+  {
+    "id": 25,
+    "text": "다른 사람의 실수를 쉽게 용서합니다.",
+    "trait": "agreeableness"
+  },
+  {
+    "id": 26,
+    "text": "새로운 아이디어를 실행에 옮기는 데 주저함이 없습니다.",
+    "trait": "openness"
+  },
+  {
+    "id": 27,
+    "text": "장기적인 계획을 세우는 것을 즐깁니다.",
+    "trait": "conscientiousness"
+  },
+  {
+    "id": 28,
+    "text": "다른 사람의 의견에 귀 기울입니다.",
+    "trait": "agreeableness"
+  },
+  { "id": 29, "text": "위험을 감수하는 것을 즐깁니다.", "trait": "openness" },
+  {
+    "id": 30,
+    "text": "친구나 가족과의 시간을 소중히 여깁니다.",
+    "trait": "agreeableness"
   }
 ]
