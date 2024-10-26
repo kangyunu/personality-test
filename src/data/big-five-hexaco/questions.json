@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "text": "새로운 경험을 시도하는 것을 좋아합니다.",
+    "trait": "openness"
+  },
+  {
+    "id": 2,
+    "text": "스트레스 상황에서 침착하게 대처합니다.",
+    "trait": "emotionalStability"
+  },
+  {
+    "id": 3,
+    "text": "다른 사람의 감정을 잘 이해한다고 느낍니다.",
+    "trait": "agreeableness"
+  }
+]
