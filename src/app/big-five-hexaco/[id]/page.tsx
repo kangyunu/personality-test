@@ -3,6 +3,7 @@ import types from "@/data/big-five-hexaco/types.json";
 
 const getType = (id: string) => types.find((type) => type.id === id);
 
+export const generateStaticParams = () => types.map(({ id }) => ({ id }));
 export const generateMetadata = ({ params }: { params: { id: string } }) => {
   const { id } = params;
 
