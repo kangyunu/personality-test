@@ -42,7 +42,7 @@ const QuestionForm = (props: QuestionFormProps) => {
   const handleSubmit = () => {
     if (!isDone) {
       const index = questions.findIndex((question) => !question.value);
-      swiper?.slideTo(index);
+      return swiper?.slideTo(index);
     }
 
     const type = determineType(questions);

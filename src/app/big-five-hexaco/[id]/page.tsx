@@ -23,7 +23,7 @@ const BigFiveHexacoResultPage = ({ params }: { params: { id: string } }) => {
   if (!type) return notFound();
 
   return (
-    <div className="max-w-2xl m-auto">
+    <div className="max-w-2xl m-auto min-h-dvh">
       <div className="h-96 bg-red-50" />
 
       <div className="text-2xl text-bold mt-4 pl-4">{type.name}</div>
