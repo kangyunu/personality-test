@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import types from "@/data/big-five-hexaco/types.json";
+import Image from "next/image";
 
 const getType = (id: string) => types.find((type) => type.id === id);
 
@@ -24,7 +25,10 @@ const BigFiveHexacoResultPage = ({ params }: { params: { id: string } }) => {
 
   return (
     <div className="max-w-2xl m-auto min-h-dvh">
-      <div className="h-96 bg-red-50" />
+      <div
+        className="h-96 w-full bg-center bg-cover bg-no-repeat"
+        style={{ backgroundImage: `url(/images/${id}.jpg)` }}
+      />
 
       <div className="text-2xl text-bold mt-4 pl-4">{type.name}</div>
       <div className="text-xl text-gray-600 pl-4">({type.english})</div>
