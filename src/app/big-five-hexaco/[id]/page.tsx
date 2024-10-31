@@ -1,6 +1,5 @@
 import { notFound } from "next/navigation";
 import types from "@/data/big-five-hexaco/types.json";
-import Image from "next/image";
 
 const getType = (id: string) => types.find((type) => type.id === id);
 
